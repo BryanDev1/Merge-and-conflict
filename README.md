@@ -1,2 +1,2 @@
-# Merge-and-conflict
+# Merge-and-conflict "REMOTE"
 few line for this test 
