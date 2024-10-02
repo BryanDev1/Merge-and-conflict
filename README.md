@@ -1,2 +1,2 @@
-# Merge-and-conflict
+# Merge-and-conflict "LOCAL"
 few line for this test 
